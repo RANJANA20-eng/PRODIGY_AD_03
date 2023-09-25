@@ -6,7 +6,7 @@ A. Using Python
 Just no libraries will be utilised in this software; Tkinter will be the only one used for GUI creation.
 Tkinter: Tkinter is the name of Python's built-in GUI library. GUI application development is rapid and easy thanks to Python and Tkinter. Tkinter offers an efficient object-oriented interface for the Tk GUI toolkit. GUI is nothing more than a desktop application that gives you an interface to communicate with computers and improves the experience of instructing your code (command-line input). They are employed in PCs, laptops, and other digital equipment, among other things, to carry out various duties.
 
-B. Using ANdroid studio
+B. Using Android studio
 
 1.First of all, create a new project and name it. We have named our project ProjectGurukul Stopwatch.
 
